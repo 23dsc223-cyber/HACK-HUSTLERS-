@@ -1,0 +1,58 @@
+{
+  "name": "The American College, Madurai (Autonomous)",
+  "location": "Tallakulam, Madurai – 625002, Tamil Nadu, India",
+  "overview": "Established in 1881 by Rev. G.T. Washburn, The American College is among the oldest autonomous colleges in India, affiliated with Madurai Kamaraj University. It emphasizes academic excellence and holistic education.",
+  "placements": "The college provides placement assistance through its placement cell. Several students are placed in IT, finance, and service sectors.",
+  "alumni": "The American College has a strong alumni network with members working in academia, research, and industry worldwide.",
+  "library": "The Daniel Poor Memorial Library is one of the oldest academic libraries in South India.",
+  "hostel": "Separate hostel facilities are available for men and women with basic amenities.",
+  "research": "The college encourages research activities and offers M.Phil and Ph.D programs.",
+
+  "history": "Originally founded as Pasumalai College in 1881, the institution moved to its present campus. Nobel Laureate Rabindranath Tagore delivered lectures here in 1919. The Daniel Poor Memorial Library was established in 1915 and remains a central resource. The college pioneered autonomy and introduced progressive systems like CBCS and student exchange programmes. Notable alumni include scientists and educators.",
+  "leadership": {
+    "principal": "Dr. J. Paul Jayakar",
+    "vice_principal": "Dr. S.C.B. Samuel Anbu Selvan",
+    "deans": [
+      "Dr. J. Justin Manohar (Policies & Administration)",
+      "Dr. C. Joel Gnanadoss Timothy (International Faculty Exchange)"
+    ]
+  },
+  "ranking": {
+    "nirf_2025": "Ranked 59 among colleges in India",
+    "naac": "A+ grade"
+  },
+  "accreditation": "Approved by UGC, affiliated to Madurai Kamaraj University",
+  "departments": [
+    "Humanities & Social Sciences",
+    "Physical Sciences",
+    "Biological Sciences",
+    "Computer Science & IT",
+    "Management Studies",
+    "Visual Communication",
+    "Commerce"
+  ],
+  "courses": {
+    "undergraduate": ["B.Sc", "B.Com", "BBA", "BA", "BCA"],
+    "postgraduate": ["MBA", "MCA", "M.Sc", "M.Com", "MA"],
+    "doctorate": ["Ph.D", "M.Phil"]
+  },
+  "fees_estimates": {
+    "UG_range": "UG:₹34,000 – ₹2,16,000 (varies by programme)",
+    "MBA": "MBA:₹1,99,000 approx.",
+    "hostel_fee": "HOSTEL:₹25,600 (approx.)"
+  },
+  "admissions": {
+    "eligibility": "Merit or entrance test based; TANCET, MAT, CAT may be accepted for some programmes.",
+    "application": "Online application available on official site",
+    "is admission merit based": "Yes, admissions are primarily merit-based, depending on the course."
+
+  },
+  "facilities": [
+    "Memorial Library,",
+    "Hostel accommodation,",
+    "Parking,",
+    "Canteen,",
+    "Sports and cultural clubs, "
+  ],
+  "contact": "Phone: 0452-2530070 / 0452-2530973; Email: office@americancollege.edu.in; Website: https://americancollege.edu.in/"
+}
